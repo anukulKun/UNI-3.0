@@ -7,7 +7,7 @@ import React, { useEffect, useState } from 'react';
 import { defineChain } from "thirdweb";
 
 
-const chain = defineChain(1115)
+const chain = defineChain(656476)
 
 const client = createThirdwebClient({
   clientId: "4f4d7aad88cd12953957137f0f7c0081",
