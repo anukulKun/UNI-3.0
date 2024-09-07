@@ -33,8 +33,8 @@ const client = createThirdwebClient({
 
 export default function Wallet() {
   return (
-    <div>
-      <ConnectButton client={client} chain={chain} />
+    <div className="">
+      <ConnectButton  client={client} chain={chain} />
     </div>
   );
 }

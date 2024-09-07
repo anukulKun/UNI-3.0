@@ -56,11 +56,15 @@ export function AnimatedModalDemo() {
         </ModalTrigger>
         <ModalBody className="w-full flex item-center items-center bg-red-400">
           <ModalContent className="space-y-5 mt-20">
-            <p className="text-3xl font-semibold">Connect Your Wallet</p>
+            <p className="text-3xl font-semibold ">Connect Your Wallet</p>
             <Wallet />
-            <div className="w-full flex justify-center gap-4" >
+            <div className="w-full flex flex-wrap justify- gap-4" >
                <Button><Link href={"./cuims"}>Uims</Link></Button> 
                <Button><Link href={"./lms/vrLms"}>Lms</Link></Button> 
+               <Button><Link href={"./courses"}>Courses</Link></Button> 
+               <Button><Link href={"./rewards"}>Rewards</Link></Button> 
+               <Button><Link href={"./teacherPanel"}>Teacher Panel</Link></Button> 
+               <Button><Link href={"./workshopAdmin"}>Workshop Panel</Link></Button> 
             </div>
 
           </ModalContent>
