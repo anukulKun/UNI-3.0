@@ -1,8 +1,8 @@
 won 3500$ learn track DAO UNI 3.0 ~
 
 check it out: 
-Website: https://lnkd.in/gVQYswZ5
-YouTube: https://lnkd.in/g2PCGBBy
+Website: https://uni-3-0.vercel.app
+YouTube: https://www.youtube.com/watch?v=vh0MICoCzdI
 
 A VR university operating under DAO governance, where you can attend and organize events and workshops, view authentic courses from web3 companies, and explore developer-focused content, including comprehensive learning roadmaps.
 
